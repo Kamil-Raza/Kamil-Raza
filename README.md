@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kamil-Raza
-- 👀 I’m Full Stack Developer
+- 👀 I’m Software Engineer
 - 🌱 I’m currently learning some more cool stuff
 - 💞️ I’m looking to collaborate with freelancers
 - 📫 Reach me at kamilraza1254@gmail.com
